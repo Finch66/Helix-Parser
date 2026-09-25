@@ -71,11 +71,8 @@ La data si cerca nel testo originale, in questo ordine:
 Formati accettati:
 
 - `YYYY-MM-DD` (es. `2026-02-15`)
-- `YY-MM-DD`   (es. `26-02-15`)
 - `DD/MM/YYYY` (es. `15/02/2026`)
 - `DD/MM/YY`   (es. `15/02/26`)
-- `MM/DD/YYYY` (es. `02/15/2026`)
-- `MM/DD/YY`   (es. `02/15/26`)
 
 Regole:
 
